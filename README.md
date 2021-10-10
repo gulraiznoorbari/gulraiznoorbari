@@ -4,7 +4,7 @@
 - 🚀 I'm a Full Stack Developer. 
 - 🌱 I’m currently learning about Backend Engineering.
 - 👯 I’m looking to collaborate with other content creators and developers.
-- 🥅 2021 Goals: Contribute more to Open Source projects.
+- 🥅 2021 Goals: Start Contributing to Open Source projects.
 
 <img src="https://raw.githubusercontent.com/msaaddev/msaaddev/master/assets/separate.jpg" />
 
