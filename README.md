@@ -13,7 +13,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gulraiznoorbari" alt="Gulraiz Noor Bari" /> </p>
 
-## 🤝🏻 &nbsp;Connect with Me
+## 🤝🏻 Connect with Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/gulraiznoorbari/" target="_blank" rel="noopener noreferrer">
@@ -28,11 +28,11 @@
   <img src="https://img.shields.io/badge/Gmail-Gulraiz%20Noor%20Bari-red?logo=gmail&logoColor=white&color=red" />
 </a>
   
-## Contribution Graph
+## 📈 Contribution Graph
 
 [![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=gulraiznoorbari&theme=xcode)](https://github.com/gulraiznoorbari)
   
-<h2><i>⚙️ GitHub Analytics</i></h2>
+## ⚙️ GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/gulraiznoorbari">
