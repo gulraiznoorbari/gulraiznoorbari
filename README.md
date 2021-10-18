@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate with other Content Creators and Developers.
 - 🥅 2021 Goals: Start Contributing to Open Source projects.
 
-<img src="https://raw.githubusercontent.com/msaaddev/msaaddev/master/assets/separate.jpg" />
+<img src="./separator.jpg" />
 
 <br />
 
