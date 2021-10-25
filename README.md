@@ -30,7 +30,7 @@
   
 ## 📈 Contribution Graph
 
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=gulraiznoorbari&theme=xcode)](https://github.com/gulraiznoorbari)
+<img src="https://activity-graph.herokuapp.com/graph?username=gulraiznoorbari&theme=xcode" />
   
 ## ⚙️ GitHub Analytics
 
