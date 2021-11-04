@@ -35,7 +35,7 @@
 ## ⚙️ GitHub Analytics
 
 <p align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=gulraiznoorbari&count_private=true&show_icons=true&theme=react&hide_border=true&include_all_commits=true"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=gulraiznoorbari&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true"/>
   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulraiznoorbari&layout=compact&theme=react&hide_border=true"/>
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=gulraiznoorbari&show_icons=true&locale=en&layout=demo&theme=react&hide_border=true" />
 </p>
