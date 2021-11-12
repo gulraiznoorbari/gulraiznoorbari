@@ -14,18 +14,17 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gulraiznoorbari" alt="Gulraiz Noor Bari" /> </p>
 
 ## 🤝🏻 Connect with Me
-
 <p align="center">
 <a href="https://www.linkedin.com/in/gulraiznoorbari/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-Gulraiz%20Noor%20Bari-blue?logo=linkedin&logoColor=white&color=blue" />
+  <img src="https://img.shields.io/badge/-Gulraiz%20Noor%20Bari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gulraiznoorbari/" />
 </a>
   
 <a href="https://twitter.com/gulraiznoorbari" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Twitter-Gulraiz%20Noor%20Bari-blue?logo=twitter&logoColor=white&color=blue" />
+  <img src="https://img.shields.io/badge/-Gulraiz%20Noor%20Bari-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/gulraiznoorbari" />
 </a>
 
 <a href="mailto:gulraiznoorbari@gmail.com.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Gmail-Gulraiz%20Noor%20Bari-red?logo=gmail&logoColor=white&color=red" />
+  <img src="https://img.shields.io/badge/-Gulraiz%20Noor%20Bari-red?style=flat-square&logo=Gmail&logoColor=white" />
 </a>
   
 ## 📈 Contribution Graph
