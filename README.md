@@ -29,7 +29,7 @@
   
 ## 📈 Contribution Graph
 
-<img src="https://activity-graph.herokuapp.com/graph?username=gulraiznoorbari&theme=xcode" />
+<img src="https://activity-graph.herokuapp.com/graph?username=gulraiznoorbari&theme=xcode" alt="Gulraiz's GitHub Contribution Graph"/>
   
 ## ⚙️ GitHub Analytics
 
