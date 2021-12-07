@@ -1,7 +1,7 @@
 # Hi there, I'm Gulraiz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ### ⚡️ Here is a bit about me:
-- 🚀 I'm a Full Stack Web Developer.
+- 🚀 I'm a Full Stack Developer.
 - 👨‍💻 Currently working with React and Django for Web Development.
 - 🌱 I’m currently learning about Frontend Engineering.
 - 👯 I’m looking to collaborate with other Content Creators and Developers.
