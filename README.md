@@ -2,10 +2,10 @@
 
 ### ⚡️ Here is a bit about me:
 - 🚀 I'm a Full Stack Developer.
-- 👨‍💻 Currently working with React and Django for Web Development.
-- 🌱 I’m currently learning about Frontend Engineering.
+- 👨‍💻 Currently working with MERN Stack and Django for Web Development.
+- 🌱 I’m currently learning about Backend Engineering.
 - 👯 I’m looking to collaborate with other Content Creators and Developers.
-- 🥅 2021 Goals: Start Contributing to Open Source projects.
+- 🥅 2022 Goals: Contribute more to Open Source projects.
 
 <img src="./separator.jpg" />
 
