@@ -3,7 +3,7 @@
 ### ⚡️ Here is a bit about me:
 - 🚀 I'm a Full Stack Developer.
 - 👨‍💻 Currently working with MERN Stack.
-- 🌱 I’m currently learning about Backend Engineering.
+- 🌱 I’m currently learning about Game Design & Backend Engineering.
 - 👯 I’m looking to collaborate with other Content Creators and Developers.
 - 🥅 2022 Goals: Contribute more to Open Source projects.
 
