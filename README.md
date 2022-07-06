@@ -1,4 +1,4 @@
-# Hi there, I'm Gulraiz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi there, I'm Gulraiz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px" width="25px">
 
 ### ⚡️ Here is a bit about me:
 - 🚀 I'm a Full Stack Developer.
