@@ -29,7 +29,7 @@
   
 ## 📈 Contribution Graph
 
-[![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=gulraiznoorbari&theme=react)](https://github.com/gulraiznoorbari)
+[![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=gulraiznoorbari&theme=xcode)](https://github.com/gulraiznoorbari)
 
 ## ⚙️ GitHub Analytics
 
