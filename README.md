@@ -18,14 +18,16 @@
 <a href="https://www.linkedin.com/in/gulraiznoorbari/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/-Gulraiz%20Noor%20Bari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gulraiznoorbari/" />
 </a>
-  
+<!--  
 <a href="https://twitter.com/gulraiznoorbari" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/-Gulraiz%20Noor%20Bari-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/gulraiznoorbari" />
 </a>
+-->
 
 <a href="mailto:gulraiznoorbari@gmail.com.com" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/-Gulraiz%20Noor%20Bari-red?style=flat-square&logo=Gmail&logoColor=white" />
 </a>
+</p>
   
 ## 📈 Contribution Graph
 
@@ -38,6 +40,6 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulraiznoorbari&hide=html,css&layout=compact&theme=react&hide_border=true"/>
 </p>
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=gulraiznoorbari&show_icons=true&layout=demo&theme=react&hide_border=true"/>
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=gulraiznoorbari&show_icons=true&layout=demo&theme=react&hide_border=true"/>
 </p>
-</p>
+
