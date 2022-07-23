@@ -19,50 +19,50 @@
 <table width="100">
 <tr>
     <td align='center' width="190">
-        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60">
+        <img src="https://user-images.githubusercontent.com/78252747/180600493-8a0c738e-e6da-4685-8592-09d7b691860c.png" width="60">
     </td>
     <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
+        <img src="https://user-images.githubusercontent.com/78252747/180600524-2bb8784f-a045-4d04-8d2e-fb593c261650.png" width="60">
     </td>
     <td align='center' width="190">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="60">
+        <img src="https://user-images.githubusercontent.com/78252747/180600833-00e80d7e-60ee-4e48-8e74-5dbeaa650b20.png" width="100">
     </td>
      <td align='center' width="190">
-        <img src="https://git-scm.com/images/logos/1color-darkbg@2x.png" width="100">
+        <img src="https://user-images.githubusercontent.com/78252747/180600621-4120eaa5-e729-48e1-8e60-5b824fc3c0f0.png" width="60">
     </td>
     <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
+        <img src="https://user-images.githubusercontent.com/78252747/180602557-477d848e-045f-4c30-ae3f-c87f9cb62e3f.png">
     </td>
 </tr>
 <tr>
     <td align='center'>
-        <img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png"  width="60" height="40">
+        <img src="https://user-images.githubusercontent.com/78252747/180600737-95b3e473-f1fc-4571-aa45-25d04f1eb865.png" width="60">
     </td>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
+        <img src="https://user-images.githubusercontent.com/78252747/180600881-f85bfc62-3858-4499-9fd3-e7c46d898e65.png">
     </td>
     <td align='center'>
-        <img src="https://vegibit.com/wp-content/uploads/2018/05/expressjs.png">
+        <img src="https://user-images.githubusercontent.com/78252747/180600908-e78c274b-7ab4-4d6d-a6a0-2e8514521c40.png" width="60">
     </td>
     <td align='center'>
-        <img src="http://rhc4tp-cms-prod-vpc-76857813.s3.amazonaws.com/s3fs-public/mongodb-logo-rgb-j6w271g1xn.jpg">
+        <img src="https://user-images.githubusercontent.com/78252747/180600973-208a1596-1767-4ab0-8bef-c425c5b89c94.png">
     </td>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
+        <img src="https://user-images.githubusercontent.com/78252747/180601047-b7ee974b-863c-4088-b60c-c4370bc340b2.png" width="120">
     </td>
 </tr>
 <tr>
     <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" height="40" width="60">
+        <img src="https://user-images.githubusercontent.com/78252747/180601247-9630357f-b536-485d-b8b8-5aff2896face.png" width="100">
     </td>
     <td align='center'>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="60">
+        <img src="https://user-images.githubusercontent.com/78252747/180601102-12d95165-381a-4e7e-ae1f-9eac1228e658.png">
     </td>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg">
+        <img src="https://user-images.githubusercontent.com/78252747/180601145-63678451-0edd-4a24-9f81-5fbd563d9796.png">
     </td>
     <td align='center'>
-        <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="60">
+        <img src="https://user-images.githubusercontent.com/78252747/180601299-e40d8347-ed40-4c00-a628-9697cc7e3584.png">
     </td>
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
@@ -70,27 +70,27 @@
 </tr>
 <tr>
     <td align='center'>
+        <img src="https://user-images.githubusercontent.com/78252747/180601750-b324d385-6d8d-4dfb-90fe-be43292ab363.png">
+    </td>
+    <td align='center'>
         <img src="https://download.logo.wine/logo/PostgreSQL/PostgreSQL-Logo.wine.png">
     </td>
     <td align='center'>
-        <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" >
+        <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png">
     </td>
     <td align='center'>
-        <img src="https://miro.medium.com/max/901/1*GkrYGz_r9W6AVgEloQpJFQ.png">
+        <img src="https://user-images.githubusercontent.com/78252747/180602082-04bf2143-0f90-4fbc-afa0-1ece2796ea91.png">
     </td>
     <td align='center'>
-        <img src="https://download.logo.wine/logo/Redis/Redis-Logo.wine.png">
-    </td>
-    <td align='center'>
-        <img src="https://cdn-images-1.medium.com/max/1200/1*kqpVTzo8b0e2oKdOjWQxZA.png">
+    	<img src="https://download.logo.wine/logo/Redis/Redis-Logo.wine.png">
     </td>
 </tr>
 <tr>
     <td align='center'>
-        <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png">
+        <img src="https://user-images.githubusercontent.com/78252747/180601785-d380125f-c4b5-49ee-aaf7-5b12dc423d8a.png">
     </td>
     <td align='center'>
-        <img src="https://buttercms.com/static/images/tech_banners/Flask.png" >
+        <img src="https://user-images.githubusercontent.com/78252747/180602385-2659994a-6f8e-413c-ac70-167ba9e8fb9d.png" >
     </td>
     <td align='center'>
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/1200px-Ruby_On_Rails_Logo.svg.png">
