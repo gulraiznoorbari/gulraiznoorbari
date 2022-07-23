@@ -31,7 +31,7 @@
         <img src="https://user-images.githubusercontent.com/78252747/180600621-4120eaa5-e729-48e1-8e60-5b824fc3c0f0.png" width="60">
     </td>
     <td align='center' width="190">
-        <img src="https://user-images.githubusercontent.com/78252747/180602557-477d848e-045f-4c30-ae3f-c87f9cb62e3f.png">
+        <img src="https://user-images.githubusercontent.com/78252747/180602691-00600788-0f4c-4ff1-bbf9-3595ddd9f7f1.png" width="60">
     </td>
 </tr>
 <tr>
@@ -93,31 +93,28 @@
         <img src="https://user-images.githubusercontent.com/78252747/180602385-2659994a-6f8e-413c-ac70-167ba9e8fb9d.png" >
     </td>
     <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/1200px-Ruby_On_Rails_Logo.svg.png">
+        <img src="https://user-images.githubusercontent.com/78252747/180602748-90391109-b9ea-4bda-bf9c-32d61695e563.png">
     </td>
     <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/RabbitMQ_logo.svg/1200px-RabbitMQ_logo.svg.png">
+        <img src="https://user-images.githubusercontent.com/78252747/180602778-bc459172-bc87-4285-9197-d0044792a6ac.png">
     </td>
     <td align='center'>
-        <img src="https://miro.medium.com/max/600/1*usQX20oLxChIAupsuRi7GQ.png">
+        <img src="https://user-images.githubusercontent.com/78252747/180602827-3cc9cf09-172e-4515-9aee-799b0f453c85.png">
     </td>
 </tr>
 
 <tr>
     <td align='center'>
-        <img src="https://www.metaltoad.com/sites/default/files/styles/large_personal_photo_870x500_/public/2020-05/aws-logo-blog-header.png?itok=t4o3meiH">
+        <img src="https://user-images.githubusercontent.com/78252747/180602854-51f93e1b-2c31-4756-ba63-683370518d02.png">
     </td>
     <td align='center'>
-        <img src="https://download.logo.wine/logo/Microsoft_Azure/Microsoft_Azure-Logo.wine.png">
+        <img src="https://user-images.githubusercontent.com/78252747/180602882-c4751fa5-a361-4cc8-90f9-bd383611fa0f.png">
     </td>
     <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/TensorFlow_Logo_with_text.png">
+        <img src="https://user-images.githubusercontent.com/78252747/180602929-e6942b5f-378f-4648-87ec-66554531130f.png" width="60">
     </td>
     <td align='center'>
-        <img src="https://marvel-b1-cdn.bc0a.com/f00000000152152/www.zend.com/sites/default/files/image/2019-09/logo-docker.jpg" >
-    </td>
-    <td align='center'>
-        <img src="https://www.nginx.com/wp-content/uploads/2018/08/NGINX-logo-rgb-large.png" >
+        <img src="https://user-images.githubusercontent.com/78252747/180602985-4031c76b-f067-49f9-8f75-f1b5406f69bf.png" width="60">
     </td>
 </tr>
     
