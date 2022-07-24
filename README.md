@@ -116,6 +116,9 @@
     <td align='center'>
         <img src="https://user-images.githubusercontent.com/78252747/180602985-4031c76b-f067-49f9-8f75-f1b5406f69bf.png" width="60">
     </td>
+    <td align='center'>
+        <img src="https://user-images.githubusercontent.com/78252747/180661769-854fb554-a86d-4304-885c-771390d87a3b.png" width="100">
+    </td>
 </tr>
     
 </table>
