@@ -2,11 +2,10 @@
 
 ### ⚡️ Here is a bit about me:
 
--   🚀 I'm a Full Stack Developer.
--   👨‍💻 Currently working with MERN Stack.
--   🌱 I’m currently learning about Game Design & Backend Engineering.
--   👯 I’m looking to collaborate with other Content Creators and Developers.
--   🥅 2022 Goals: Contribute more to Open Source projects.
+-   🚀 I'm a Full Stack Web and Game Developer.
+-   👨‍💻 Currently working with Unity and C#.
+-   🌱 I’m currently learning about Design & Development of Games and Backend Engineering.
+-   👯 I’m looking to collaborate with other Developers.
 
 <img src="./separator.jpg" />
 
@@ -31,10 +30,13 @@
         <img src="https://user-images.githubusercontent.com/78252747/180600621-4120eaa5-e729-48e1-8e60-5b824fc3c0f0.png" width="60">
     </td>
     <td align='center' width="190">
-        <img src="https://user-images.githubusercontent.com/78252747/180602691-00600788-0f4c-4ff1-bbf9-3595ddd9f7f1.png" width="60">
+        <img src="https://user-images.githubusercontent.com/78252747/180602827-3cc9cf09-172e-4515-9aee-799b0f453c85.png">
     </td>
 </tr>
 <tr>
+    <td align='center' width="190">
+        <img src="https://user-images.githubusercontent.com/78252747/180602691-00600788-0f4c-4ff1-bbf9-3595ddd9f7f1.png" width="60">
+    </td>
     <td align='center'>
         <img src="https://user-images.githubusercontent.com/78252747/180600737-95b3e473-f1fc-4571-aa45-25d04f1eb865.png" width="60">
     </td>
@@ -47,11 +49,12 @@
     <td align='center'>
         <img src="https://user-images.githubusercontent.com/78252747/180600973-208a1596-1767-4ab0-8bef-c425c5b89c94.png">
     </td>
+    
+</tr>
+<tr>
     <td align='center'>
         <img src="https://user-images.githubusercontent.com/78252747/180601047-b7ee974b-863c-4088-b60c-c4370bc340b2.png" width="120">
     </td>
-</tr>
-<tr>
     <td align='center'>
         <img src="https://user-images.githubusercontent.com/78252747/180601247-9630357f-b536-485d-b8b8-5aff2896face.png" width="100">
     </td>
@@ -64,11 +67,11 @@
     <td align='center'>
         <img src="https://user-images.githubusercontent.com/78252747/180601299-e40d8347-ed40-4c00-a628-9697cc7e3584.png">
     </td>
+</tr>
+<tr>
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
     </td>
-</tr>
-<tr>
     <td align='center'>
         <img src="https://user-images.githubusercontent.com/78252747/180601750-b324d385-6d8d-4dfb-90fe-be43292ab363.png">
     </td>
@@ -81,11 +84,11 @@
     <td align='center'>
         <img src="https://user-images.githubusercontent.com/78252747/180602082-04bf2143-0f90-4fbc-afa0-1ece2796ea91.png">
     </td>
+</tr>
+<tr>
     <td align='center'>
     	<img src="https://download.logo.wine/logo/Redis/Redis-Logo.wine.png">
     </td>
-</tr>
-<tr>
     <td align='center'>
         <img src="https://user-images.githubusercontent.com/78252747/180601785-d380125f-c4b5-49ee-aaf7-5b12dc423d8a.png">
     </td>
@@ -93,34 +96,23 @@
         <img src="https://user-images.githubusercontent.com/78252747/180602385-2659994a-6f8e-413c-ac70-167ba9e8fb9d.png" >
     </td>
     <td align='center'>
-        <img src="https://user-images.githubusercontent.com/78252747/180602748-90391109-b9ea-4bda-bf9c-32d61695e563.png">
-    </td>
-    <td align='center'>
-        <img src="https://user-images.githubusercontent.com/78252747/180602778-bc459172-bc87-4285-9197-d0044792a6ac.png">
-    </td>
-    <td align='center'>
-        <img src="https://user-images.githubusercontent.com/78252747/180602827-3cc9cf09-172e-4515-9aee-799b0f453c85.png">
-    </td>
-</tr>
-
-<tr>
-    <td align='center'>
         <img src="https://user-images.githubusercontent.com/78252747/180602854-51f93e1b-2c31-4756-ba63-683370518d02.png">
     </td>
     <td align='center'>
         <img src="https://user-images.githubusercontent.com/78252747/180602882-c4751fa5-a361-4cc8-90f9-bd383611fa0f.png">
+    </td> 
+</tr>
+
+<!-- 
+<tr>
+    <td align='center' width="50">
+        <img src="https://user-images.githubusercontent.com/78252747/180602778-bc459172-bc87-4285-9197-d0044792a6ac.png">
     </td>
-    <td align='center'>
-        <img src="https://user-images.githubusercontent.com/78252747/180602929-e6942b5f-378f-4648-87ec-66554531130f.png" width="60">
-    </td>
-    <td align='center'>
-        <img src="https://user-images.githubusercontent.com/78252747/180602985-4031c76b-f067-49f9-8f75-f1b5406f69bf.png" width="60">
-    </td>
-    <td align='center'>
-        <img src="https://user-images.githubusercontent.com/78252747/180661769-854fb554-a86d-4304-885c-771390d87a3b.png" width="100">
+    <td align='center' width="50">
+        <img src="https://user-images.githubusercontent.com/78252747/195987751-04edf088-2a34-4efb-a061-22583eb74f89.png">
     </td>
 </tr>
-    
+-->    
 </table>
 
 <br />
