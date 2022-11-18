@@ -137,7 +137,7 @@
 
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gulraiznoorbari&count_private=true&show_icons=true&theme=react&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulraiznoorbari&hide=Shaderlab,html,css&layout=compact&theme=react&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulraiznoorbari&hide=ASP.NET,Shaderlab,html,css&layout=compact&theme=react&hide_border=true"/>
 </p>
 <p align="center">
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=gulraiznoorbari&show_icons=true&layout=demo&theme=react&hide_border=true"/>
