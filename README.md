@@ -2,7 +2,7 @@
 
 ### ⚡️ Here is a bit about me:
 
--   🚀 I'm a Full Stack Web and Game Developer.
+-   🚀 I'm a Unity Game Developer.
 -   👨‍💻 Currently working with Unity and C#.
 -   🌱 I’m currently learning about Design & Development of Games and Backend Engineering.
 -   👯 I’m looking to collaborate with other Developers.
