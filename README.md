@@ -130,8 +130,7 @@
 </p>
   
 ## 📈 Contribution Graph
-
-[![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=gulraiznoorbari&theme=xcode)](https://github.com/gulraiznoorbari)
+[![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=gulraiznoorbari&theme=github-compact&area=true&hide_border=true)](https://github.com/gulraiznoorbari)
 
 ## ⚙️ GitHub Analytics
 
