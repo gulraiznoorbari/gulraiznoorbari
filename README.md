@@ -11,8 +11,6 @@
 
 <br />
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=gulraiznoorbari" alt="Gulraiz Noor Bari" /> </p>
-
 <h2><i>💻 Tech Stack</i></h2>
 
 <table width="100">
@@ -130,17 +128,20 @@
 </p>
   
 ## 📈 Contribution Graph
-[![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=gulraiznoorbari&theme=github-compact&area=true&hide_border=true)](https://github.com/gulraiznoorbari)
+[![Gulraiz's GitHub graph](https://github-readme-activity-graph.cyclic.app/graph?username=gulraiznoorbari&theme=github-compact&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## ⚙️ GitHub Analytics
 
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gulraiznoorbari&count_private=true&show_icons=true&theme=react&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulraiznoorbari&hide=ASP.NET,Shaderlab,html,css&layout=compact&theme=react&hide_border=true"/>
-</p>
-<p align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=gulraiznoorbari&show_icons=true&layout=demo&theme=react&hide_border=true"/>
-</p>
+<div align="center">
+
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=gulraiznoorbari&show_icons=true&layout=demo&theme=react&hide_border=true"/>
+
+| <img src="https://github-readme-stats-ooliver1.vercel.app/api/?username=gulraiznoorbari&theme=react&count_private=true&include_all_commits=true&show_icons=true&hide_border=true" alt="gulraiznoorbari's GitHub stats" /> | <img src="https://github-readme-stats-ooliver1.vercel.app/api/top-langs?username=gulraiznoorbari&theme=react&count_private=true&exclude_repo=gulraiznoorbari&layout=compact&langs_count=10&hide_border=true" alt="Gulraiz's GitHub stats" /> |
+| ----- | ----- |
+
+**Note**: this does not represent skill level but purely the amount of code in each language on my profile.
+
+</div>
 
 ## Github Contributions
 
