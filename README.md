@@ -11,7 +11,7 @@
 
 <br />
 
-<h2><i>💻 Tech Stack</i></h2>
+## 💻 Tech Stack
 
 <table width="100">
 <tr>
@@ -121,29 +121,30 @@
 <a href="https://www.linkedin.com/in/gulraiznoorbari/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/-Gulraiz%20Noor%20Bari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gulraiznoorbari/" />
 </a>
-
 <a href="mailto:gulraiznoorbari@gmail.com" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/-Gulraiz%20Noor%20Bari-red?style=flat-square&logo=Gmail&logoColor=white" />
 </a>
 </p>
-  
-## 📈 Contribution Graph
+
+## ⚙️ Statistics
+
 [![Gulraiz's GitHub graph](https://github-readme-activity-graph.cyclic.app/graph?username=gulraiznoorbari&theme=github-compact&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## ⚙️ GitHub Analytics
 
 <div align="center">
 
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=gulraiznoorbari&show_icons=true&layout=demo&theme=react&hide_border=true"/>
-
-| <img src="https://github-readme-stats-ooliver1.vercel.app/api/?username=gulraiznoorbari&theme=react&count_private=true&include_all_commits=true&show_icons=true&hide_border=true" alt="gulraiznoorbari's GitHub stats" /> | <img src="https://github-readme-stats-ooliver1.vercel.app/api/top-langs?username=gulraiznoorbari&theme=react&count_private=true&exclude_repo=gulraiznoorbari&layout=compact&langs_count=10&hide_border=true" alt="Gulraiz's GitHub stats" /> |
+| <img src="https://github-readme-stats-ooliver1.vercel.app/api/?username=gulraiznoorbari&theme=midnight-purple&count_private=true&include_all_commits=true&show_icons=true&hide_border=true" alt="gulraiznoorbari's GitHub stats" /> | <img src="https://github-readme-stats-ooliver1.vercel.app/api/top-langs?username=gulraiznoorbari&theme=midnight-purple&count_private=true&layout=compact&langs_count=10&hide_border=true" alt="Gulraiz's GitHub stats" /> |
 | ----- | ----- |
+	
+<!--
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=gulraiznoorbari&show_icons=true&layout=demo&theme=midnight-purple&hide_border=true"/>
+-->
+	
+</div>
 
 **Note**: this does not represent skill level but purely the amount of code in each language on my profile.
 
-</div>
-
-## Github Contributions
+## 🖥️ Contributions
 
 <h4 align="center">Isometric view of contributions in the last year</h4>
 <p align="center">
