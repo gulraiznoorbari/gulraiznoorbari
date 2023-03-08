@@ -133,7 +133,7 @@
 
 <div align="center">
 
-| <img src="https://github-readme-stats-ooliver1.vercel.app/api/?username=gulraiznoorbari&theme=vision-friendly-dark&count_private=true&include_all_commits=true&show_icons=true&hide_border=true" alt="gulraiznoorbari's GitHub stats" /> | <img src="https://github-readme-stats-ooliver1.vercel.app/api/top-langs?username=gulraiznoorbari&theme=vision-friendly-dark&count_private=true&layout=compact&langs_count=10&hide_border=true" alt="Gulraiz's GitHub stats" /> |
+| <img src="https://github-readme-stats.vercel.app/api/?username=gulraiznoorbari&theme=vision-friendly-dark&count_private=true&include_all_commits=true&show_icons=true&hide_border=true" alt="gulraiznoorbari's GitHub stats" /> | <img src="https://github-readme-stats-ooliver1.vercel.app/api/top-langs?username=gulraiznoorbari&theme=vision-friendly-dark&count_private=true&layout=compact&langs_count=10&hide_border=true" alt="Gulraiz's GitHub stats" /> |
 | ----- | ----- |
 	
 <!--
