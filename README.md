@@ -85,9 +85,6 @@
 </tr>
 <tr>
     <td align='center'>
-    	<img src="https://download.logo.wine/logo/Redis/Redis-Logo.wine.png">
-    </td>
-    <td align='center'>
         <img src="https://user-images.githubusercontent.com/78252747/180601785-d380125f-c4b5-49ee-aaf7-5b12dc423d8a.png">
     </td>
     <td align='center'>
