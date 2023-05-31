@@ -139,7 +139,7 @@
 	
 </div>
 
-**Note**: this does not represent skill level but purely the amount of code in each language on my profile.
+***Note***: This does not represent skill level but purely the amount of code in each language on my profile.
 
 ## 🖥️ Contributions
 
