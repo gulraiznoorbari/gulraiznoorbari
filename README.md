@@ -3,7 +3,7 @@
 ### ⚡️ Here is a bit about me:
 
 -   🚀 I'm a Unity Game Developer.
--   👨‍💻 Currently working with Unity, C# and Android(Kotlin & React Native).
+-   👨‍💻 Currently working with Unity(C#) and Android(Kotlin & React Native).
 -   🌱 I’m currently learning about Design & Development of Games and Mobile Apps.
 -   👯 I’m looking to collaborate with other Developers.
 
