@@ -148,3 +148,8 @@
 		<img width="900em" src="./profile-3d-contrib/profile-night-green.svg">
 	</a>
 </p>
+
+### Bored? Here's a joke:
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api">
+</p>
