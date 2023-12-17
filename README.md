@@ -4,7 +4,7 @@
 </p>
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF651B&background=46FF4400&center=true&vCenter=true&random=false&width=660&lines=Game+Design+and+Development+%F0%9F%8E%AE;Full-stack+Mobile+Apps+%F0%9F%93%B1;Always+learning+new+things+%F0%9F%9A%80;Looking+forward+to+collaborate+with+other+Developers+%F0%9F%91%AF" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3800&pause=1000&color=FF651B&background=46FF4400&center=true&vCenter=true&random=false&width=660&lines=Game+Design+and+Development+%F0%9F%8E%AE;Full-stack+Mobile+Apps+%F0%9F%93%B1;Always+learning+new+things+%F0%9F%9A%80;Looking+forward+to+collaborate+with+other+Developers+%F0%9F%91%AF" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -31,7 +31,6 @@
 <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajava"><img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Atex"><img alt="LaTeX" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"></a>
-
 
 <h3>🧰 Frameworks and libraries</h3>
 
