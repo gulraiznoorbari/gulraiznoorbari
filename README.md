@@ -1,118 +1,12 @@
-# Hi there, I'm Gulraiz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px" width="25px">
+<p align="center">
+  <a href="https://github.com/gulraiznoorbari">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000000&color=FF651B&center=true&vCenter=true&random=false&width=435&height=20&lines=Gulraiz+Noor+Bari" alt="Gulraiz Noor Bari" /></a>
 
-### ⚡️ Here is a bit about me:
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 
--   🚀 I'm a Unity Game Developer.
--   👨‍💻 Currently working with Unity(C#) and Android(Kotlin & React Native).
--   🌱 I’m currently learning about Design & Development of Games and Mobile Apps.
--   👯 I’m looking to collaborate with other Developers.
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=FF651B&background=46FF4400&center=true&vCenter=true&random=false&width=660&lines=Game+Design+and+Development+%F0%9F%8E%AE;Full-stack+Mobile+Apps+%F0%9F%93%B1;Always+learning+new+things+%F0%9F%9A%80;Looking+forward+to+collaborate+with+other+Developers+%F0%9F%91%AF" alt="Typing SVG" /></a>
 
-<img src="./separator.jpg" />
-
-<br />
-
-## 💻 Tech Stack
-
-<table width="100">
-<tr>
-    <td align='center' width="190">
-        <img src="https://user-images.githubusercontent.com/78252747/180600493-8a0c738e-e6da-4685-8592-09d7b691860c.png" width="60">
-    </td>
-    <td align='center' width="190">
-        <img src="https://user-images.githubusercontent.com/78252747/180600524-2bb8784f-a045-4d04-8d2e-fb593c261650.png" width="60">
-    </td>
-    <td align='center' width="190">
-        <img src="https://user-images.githubusercontent.com/78252747/180600833-00e80d7e-60ee-4e48-8e74-5dbeaa650b20.png" width="100">
-    </td>
-     <td align='center' width="190">
-        <img src="https://user-images.githubusercontent.com/78252747/180600621-4120eaa5-e729-48e1-8e60-5b824fc3c0f0.png" width="60">
-    </td>
-    <td align='center' width="190">
-        <img src="https://user-images.githubusercontent.com/78252747/180602827-3cc9cf09-172e-4515-9aee-799b0f453c85.png">
-    </td>
-</tr>
-<tr>
-    <td align='center' width="190">
-        <img src="https://user-images.githubusercontent.com/78252747/180602691-00600788-0f4c-4ff1-bbf9-3595ddd9f7f1.png" width="60">
-    </td>
-    <td align='center'>
-        <img src="https://user-images.githubusercontent.com/78252747/180600737-95b3e473-f1fc-4571-aa45-25d04f1eb865.png" width="60">
-    </td>
-    <td align='center'>
-        <img src="https://user-images.githubusercontent.com/78252747/180600881-f85bfc62-3858-4499-9fd3-e7c46d898e65.png">
-    </td>
-    <td align='center'>
-        <img src="https://user-images.githubusercontent.com/78252747/180600908-e78c274b-7ab4-4d6d-a6a0-2e8514521c40.png" width="60">
-    </td>
-    <td align='center'>
-        <img src="https://user-images.githubusercontent.com/78252747/180600973-208a1596-1767-4ab0-8bef-c425c5b89c94.png">
-    </td>
-    
-</tr>
-<tr>
-    <td align='center'>
-        <img src="https://user-images.githubusercontent.com/78252747/180601047-b7ee974b-863c-4088-b60c-c4370bc340b2.png" width="120">
-    </td>
-    <td align='center'>
-        <img src="https://user-images.githubusercontent.com/78252747/180601247-9630357f-b536-485d-b8b8-5aff2896face.png" width="100">
-    </td>
-    <td align='center'>
-        <img src="https://user-images.githubusercontent.com/78252747/180601102-12d95165-381a-4e7e-ae1f-9eac1228e658.png">
-    </td>
-    <td align='center'>
-        <img src="https://user-images.githubusercontent.com/78252747/180601145-63678451-0edd-4a24-9f81-5fbd563d9796.png">
-    </td>
-    <td align='center'>
-        <img src="https://user-images.githubusercontent.com/78252747/180601299-e40d8347-ed40-4c00-a628-9697cc7e3584.png">
-    </td>
-</tr>
-<tr>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
-    </td>
-    <td align='center'>
-        <img src="https://user-images.githubusercontent.com/78252747/180601750-b324d385-6d8d-4dfb-90fe-be43292ab363.png">
-    </td>
-    <td align='center'>
-        <img src="https://download.logo.wine/logo/PostgreSQL/PostgreSQL-Logo.wine.png">
-    </td>
-    <td align='center'>
-        <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png">
-    </td>
-    <td align='center'>
-        <img src="https://user-images.githubusercontent.com/78252747/180602082-04bf2143-0f90-4fbc-afa0-1ece2796ea91.png">
-    </td>
-</tr>
-<tr>
-    <td align='center'>
-        <img src="https://user-images.githubusercontent.com/78252747/180601785-d380125f-c4b5-49ee-aaf7-5b12dc423d8a.png">
-    </td>
-    <td align='center'>
-        <img src="https://user-images.githubusercontent.com/78252747/180602385-2659994a-6f8e-413c-ac70-167ba9e8fb9d.png" >
-    </td>
-    <td align='center'>
-        <img src="https://user-images.githubusercontent.com/78252747/180602854-51f93e1b-2c31-4756-ba63-683370518d02.png">
-    </td>
-    <td align='center'>
-        <img src="https://user-images.githubusercontent.com/78252747/180602882-c4751fa5-a361-4cc8-90f9-bd383611fa0f.png">
-    </td> 
-</tr>
-
-<!-- 
-<tr>
-    <td align='center' width="50">
-        <img src="https://user-images.githubusercontent.com/78252747/180602778-bc459172-bc87-4285-9197-d0044792a6ac.png">
-    </td>
-    <td align='center' width="50">
-        <img src="https://user-images.githubusercontent.com/78252747/195987751-04edf088-2a34-4efb-a061-22583eb74f89.png">
-    </td>
-</tr>
--->    
-</table>
-
-<br />
-
-## 🤝🏻 Connect with Me
+</p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/gulraiznoorbari/" target="_blank" rel="noopener noreferrer">
@@ -122,34 +16,116 @@
   <img src="https://img.shields.io/badge/-Gulraiz%20Noor%20Bari-red?style=flat-square&logo=Gmail&logoColor=white" />
 </a>
 </p>
+<img src="./separator.jpg" />
 
-## ⚙️ Statistics
+## 🛠️ My Favorite Tools
 
-[![Gulraiz's GitHub graph](https://github-readme-activity-graph.vercel.app/graph?username=gulraiznoorbari&theme=github-compact&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<h3>👨‍💻 Programming and Markup Languages</h3>
+<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ac"><img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ac"><img alt="C" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acsharp"><img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
+<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Atex"><img alt="LaTeX" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
 
-<div align="center">
+<h3>🧰 Frameworks and libraries</h3>
 
-| <img src="https://github-readme-stats.vercel.app/api?username=gulraiznoorbari&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="gulraiznoorbari's GitHub stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gulraiznoorbari&hide=HLSL,ASP.NET,ShaderLab,SCSS,Dockerfile,Procfile,Lex,Smalltalk&theme=vision-friendly-dark&count_private=true&layout=compact&langs_count=8&hide_border=true" alt="Gulraiz's GitHub stats" /> |
-| ----- | ----- |
-	
-<!--
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=gulraiznoorbari&show_icons=true&layout=demo&theme=midnight-purple&hide_border=true"/>
--->
-	
-</div>
+<a href="#"><img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
+<a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
+<a href="#"><img alt="Expressjs" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"></a>
+<a href="#"><img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"></a>
+<a href="#"><img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"></a>
+<a href="#"><img alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a>
+<a href="#"><img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
+<a href="#"><img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
+<a href="#"><img alt="Expo" src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo"></a>
+<a href="#"><img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"></a>
+<a href="#"><img alt="Socket.io" src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101"></a>
+<a href="#"><img alt="WebGL" src="https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge"></a>
+<a href="#"><img alt="Gatsby" src="https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white"></a>
+<a href="#"><img alt="Hugo" src="https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo"></a>
+<a href="#"><img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"></a>
+<a href="#"><img alt="Chart.js" src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white"></a>
+<a href="#"><img alt="Discord.py" src="https://img.shields.io/badge/discord api-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
 
-***Note***: This does not represent skill level but purely the amount of code in each language on my profile.
+<h3>🎮 Game Development</h3>
+
+<a href="#"><img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"></a>
+<a href="#"><img alt="Unreal Engine" src="https://img.shields.io/badge/unreal engine-%23313131.svg?style=for-the-badge&logo=unreal-engine&logoColor=white"></a>
+<a href="#"><img alt="Lootlocker" src="https://img.shields.io/badge/Lootlocker_sdk-%23000000.svg?style=for-the-badge&logo=lootlocker&logoColor=white"></a>
+<a href="#"><img alt="MirrorNetworking" src="https://img.shields.io/badge/Mirror-%23000000.svg?style=for-the-badge&logo=lootlocker&logoColor=white"></a>
+<a href="#"><img alt="Steam" src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"></a>
+<a href="#"><img alt="EpicGames" src="https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white"></a>
+<a href="#"><img alt="Ich.io" src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white"></a>
+
+<h3>🗄️ Databases and cloud hosting</h3>
+
+<a href="#"><img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
+<a href="#"><img alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"></a>
+<a href="#"><img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"></a>
+<a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></a>
+<a href="#"><img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"></a>
+<a href="#"><img alt="Netlify" src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=white"></a>
+<a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
+
+<h3>🖥️ Software and tools</h3>
+
+<a href="#"><img alt="Adobe" src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white"></a>
+<a href="#"><img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"></a>
+<a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
+<a href="#"><img alt="AndroidStudio" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"></a>
+<a href="#"><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
+<a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="#"><img alt="ESlint" src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white"></a>
+<a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a>
+<a href="#"><img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"></a>
+<a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"></a>
+<a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white"></a>
+<a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"></a>
+<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
+
+## 📊 Stats and Activity
+
+  <h3>🔥 Streak Stats</h3>
+
+  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+  <p>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="gulraiznoorbari's streak" src="https://streak-stats.demolab.com/?user=gulraiznoorbari&theme=dark&hide_border=true"/>
+    </a>
+  </p>
+
+  <h3>💻 GitHub Profile Stats</h3>
+
+  <!-- https://github.com/anuraghazra/github-readme-stats -->
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=gulraiznoorbari&show_icons=true&theme=dark&hide_border=true" alt="gulraiznoorbari's GitHub stats" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=gulraiznoorbari&hide=HLSL,ASP.NET,ShaderLab,SCSS,Dockerfile,Procfile,Lex,Smalltalk&theme=dark&count_private=true&layout=compact&langs_count=8&hide_border=true" alt="Gulraiz's GitHub stats"  height="192px"/></a>
+<br/>
+
+<b>Note:</b> This does not represent skill level but purely the amount of code in each language on my profile.
+
+  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="gulraiznoorbari's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=gulraiznoorbari&theme=github-compact&area=true&hide_border=true" /></a>
 
 ## 🖥️ Contributions
 
 <h4 align="center">Isometric view of contributions in the last year</h4>
 <p align="center">
 	<a href="./profile-3d-contrib/profile-night-green.svg">
-		<img width="900em" src="./profile-3d-contrib/profile-night-green.svg">
+		<img src="./profile-3d-contrib/profile-night-green.svg">
 	</a>
 </p>
 
 ### Bored? Here's a joke:
+
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api">
 </p>
