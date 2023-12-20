@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/gulraiznoorbari">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000000&color=FF651B&center=true&vCenter=true&random=false&width=435&height=20&lines=Gulraiz+Noor+Bari" alt="Gulraiz Noor Bari" /></a>
+    <img src="https://github.com/gulraiznoorbari/gulraiznoorbari/assets/78252747/440aa36e-e344-4381-a10c-8969b647d5e3" alt="Gulraiz Noor Bari" /></a>
 </p>
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
