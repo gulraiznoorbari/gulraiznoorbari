@@ -115,17 +115,17 @@
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="gulraiznoorbari's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=gulraiznoorbari&theme=github-compact&area=true&hide_border=true" /></a>
 
+<!--
 ## 🖥️ Contributions
-
 <h4 align="center">Isometric view of contributions in the last year</h4>
 <p align="center">
 	<a href="./profile-3d-contrib/profile-night-green.svg">
 		<img src="./profile-3d-contrib/profile-night-green.svg">
 	</a>
 </p>
+-->
 
-### Bored? Here's a joke:
-
+### 🤡 Bored? Here's a joke:
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api">
 </p>
