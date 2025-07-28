@@ -92,24 +92,27 @@
 
 ## 📊 Stats and Activity
 
+<!--
   <h3>🔥 Streak Stats</h3>
-
+-->
   <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+<!--
   <p>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="gulraiznoorbari's streak" src="https://streak-stats.demolab.com/?user=gulraiznoorbari&theme=dark&hide_border=true"/>
     </a>
   </p>
+-->
 
   <h3>💻 GitHub Profile Stats</h3>
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=gulraiznoorbari&show_icons=true&theme=dark&hide_border=true" alt="gulraiznoorbari's GitHub stats" height="192px"/></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=gulraiznoorbari&hide=HLSL,ASP.NET,ShaderLab,SCSS,Dockerfile,Procfile,Lex,Smalltalk&theme=dark&count_private=true&layout=compact&langs_count=8&hide_border=true" alt="Gulraiz's GitHub stats"  height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=gulraiznoorbari&hide=HLSL,HTML,CSS,GLSL,ASP.NET,ShaderLab,SCSS,Dockerfile,Procfile,Lex,Smalltalk&theme=dark&count_private=true&layout=compact&langs_count=8&hide_border=true" alt="Gulraiz's GitHub stats"  height="192px"/></a>
 <br/>
 
-<b>Note:</b> This does not represent skill level but purely the amount of code in each language on my profile.
+<b>Note:</b> This does not represent my skill level, but rather the amount of code in each language on my profile.
 
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
