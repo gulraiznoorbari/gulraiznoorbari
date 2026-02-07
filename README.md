@@ -24,6 +24,7 @@
 
 <a href="https://github.com/search?q=user%3Agulraiznoorbari+language%3Ac"><img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3Agulraiznoorbari+language%3Ac++"><img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3Agulraiznoorbari+language%3Alua"><img alt="Lua" src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3Agulraiznoorbari+language%3Acsharp"><img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3Agulraiznoorbari+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3Agulraiznoorbari+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
@@ -53,7 +54,7 @@
 <h3>🎮 Game Development</h3>
 
 <a href="#"><img alt="Unreal Engine" src="https://img.shields.io/badge/unreal engine-%23313131.svg?style=for-the-badge&logo=unreal-engine&logoColor=white"></a>
-<a href="#"><img alt="Roblox" src="https://img.shields.io/badge/unreal engine-%23313131.svg?style=for-the-badge&logo=unreal-engine&logoColor=white"></a>
+<a href="#"><img alt="Roblox" src="https://img.shields.io/badge/Roblox-%230a0b0b.svg?style=for-the-badge&logo=Roblox&logoColor=white"></a>
 <a href="#"><img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"></a>
 <a href="#"><img alt="Ich.io" src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white"></a>
 
