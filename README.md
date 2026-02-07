@@ -36,32 +36,25 @@
 
 <h3>🧰 Frameworks and Libraries</h3>
 
-<a href="#"><img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
-<a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
-<a href="#"><img alt="MUI" src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white"></a>
 <a href="#"><img alt="Expressjs" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"></a>
-<a href="#"><img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"></a>
 <a href="#"><img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"></a>
 <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a>
 <a href="#"><img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
-<a href="#"><img alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"></a>
+<a href="#"><img alt="Socket.io" src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101"></a>
 <a href="#"><img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
 <a href="#"><img alt="Expo" src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo"></a>
+<a href="#"><img alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"></a>
 <a href="#"><img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"></a>
 <a href="#"><img alt="JWT" src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"></a>
-<a href="#"><img alt="Socket.io" src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101"></a>
-<a href="#"><img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"></a>
 <a href="#"><img alt="Chart.js" src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white"></a>
 <a href="#"><img alt="Discord.py" src="https://img.shields.io/badge/discord api-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="#"><img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
 
 <h3>🎮 Game Development</h3>
 
-<!-- <a href="#"><img alt="Unreal Engine" src="https://img.shields.io/badge/unreal engine-%23313131.svg?style=for-the-badge&logo=unreal-engine&logoColor=white"></a> -->
+<a href="#"><img alt="Unreal Engine" src="https://img.shields.io/badge/unreal engine-%23313131.svg?style=for-the-badge&logo=unreal-engine&logoColor=white"></a>
+<a href="#"><img alt="Roblox" src="https://img.shields.io/badge/unreal engine-%23313131.svg?style=for-the-badge&logo=unreal-engine&logoColor=white"></a>
 <a href="#"><img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"></a>
-<a href="#"><img alt="Lootlocker" src="https://img.shields.io/badge/Lootlocker_sdk-%23000000.svg?style=for-the-badge&logo=lootlocker&logoColor=white"></a>
-<a href="#"><img alt="MirrorNetworking" src="https://img.shields.io/badge/Mirror-%23000000.svg?style=for-the-badge&logo=lootlocker&logoColor=white"></a>
-<a href="#"><img alt="Steam" src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"></a>
-<a href="#"><img alt="EpicGames" src="https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white"></a>
 <a href="#"><img alt="Ich.io" src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white"></a>
 
 <h3>🗄️ Databases and Cloud Hosting</h3>
@@ -76,27 +69,20 @@
 
 <h3>🖥️ Software and Tools</h3>
 
-<a href="#"><img alt="Adobe" src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white"></a>
-<a href="#"><img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"></a>
-<a href="#"><img alt="AndroidStudio" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"></a>
-<a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
 <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="#"><img alt="ESlint" src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white"></a>
 <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a>
 <a href="#"><img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"></a>
 <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"></a>
 <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white"></a>
+<a href="#"><img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"></a>
 <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"></a>
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
 
-## 📊 Stats and Activity
+<!-- ## 📊 Stats and Activity -->
 
 <!--
   <h3>🔥 Streak Stats</h3>
--->
-  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-<!--
   <p>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="gulraiznoorbari's streak" src="https://streak-stats.demolab.com/?user=gulraiznoorbari&theme=dark&hide_border=true"/>
@@ -104,19 +90,16 @@
   </p>
 -->
 
-  <h3>💻 GitHub Profile Stats</h3>
+ <!-- <h3>💻 GitHub Profile Stats</h3> -->
 
-  <!-- https://github.com/anuraghazra/github-readme-stats -->
-
+<!--
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=gulraiznoorbari&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="gulraiznoorbari's GitHub stats" height="192px"/></a>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=gulraiznoorbari&hide=HLSL,HTML,CSS,GLSL,ASP.NET,ShaderLab,SCSS,Dockerfile,Procfile,Lex,Smalltalk&theme=dark&count_private=true&layout=compact&langs_count=8&hide_border=true" alt="Gulraiz's GitHub stats"  height="192px"/></a>
 <br/>
-
 <b>Note:</b> This does not represent my skill level, but rather the amount of code in each language on my profile.
+-->
 
-  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="gulraiznoorbari's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=gulraiznoorbari&theme=github-compact&area=true&hide_border=true" /></a>
+<!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="gulraiznoorbari's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=gulraiznoorbari&theme=github-compact&area=true&hide_border=true" /></a> -->
 
 <!--
 ## 🖥️ Contributions
