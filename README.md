@@ -20,7 +20,7 @@
 
 ## 🛠️ My Favorite Tools
 
-<h3>👨‍💻 Programming and Markup Languages</h3>
+<h3>👨‍💻 Programming Languages</h3>
 
 <a href="https://github.com/search?q=user%3Agulraiznoorbari+language%3Ac"><img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3Agulraiznoorbari+language%3Ac++"><img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
